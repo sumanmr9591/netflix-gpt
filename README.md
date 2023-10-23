@@ -1,3 +1,17 @@
+# Features
+
+- SignIn/Signup
+
+- Browse(After authentication)
+  -Header
+- Main Movie
+- Trailer in Background
+- Tile and Description
+- Movie Suggesstion
+- Movie List
+
+- Searchbar
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
