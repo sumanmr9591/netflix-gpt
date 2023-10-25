@@ -45,7 +45,6 @@ const Header = () => {
   }, []);
 
   const handleGptSearchClick = () => {
-    // Toggle GPT Search
     dispatch(toggleGptSearchView());
   };
 
@@ -71,7 +70,7 @@ const Header = () => {
             </select>
           )}
           <button
-            className="py-2 px-4 mx-4 my-2 bg-purple-800 text-white rounded-lg"
+            className="py-2 px-4 mx-4 my-2 bg-wheat-800 text-white rounded-lg"
             onClick={handleGptSearchClick}
           >
             {showGptSearch ? "Homepage" : "GPT Search"}
